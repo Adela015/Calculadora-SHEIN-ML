@@ -1,9 +1,9 @@
-# 🧮 Calculadora de Rentabilidad para Mercado Libre
+# Calculadora de Rentabilidad para Mercado Libre
 
 <div align="center">
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Adela015/Calculadora-SHEIN-ML/master/assets/imagen-proyecto.png" alt="Screenshot de la calculadora" width="500"/>
+  <img src="https://raw.githubusercontent.com/Adela015/Calculadora-SHEIN-ML/master/assets/imagen-proyecto.png" alt="Screenshot de la calculadora" width="250"/>
 </div>
 
 **Una herramienta de escritorio para vendedores de Mercado Libre que importan productos desde Shein.**  
