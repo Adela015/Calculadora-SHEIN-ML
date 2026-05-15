@@ -42,14 +42,6 @@ Esta calculadora resuelve ese problema en segundos. Ingresás tus costos, defin�
 
 ---
 
-## 🎬 Demo
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Adela015/Calculadora-SHEIN-ML/master/assets/imagen-proyecto.png" alt="Screenshot de la calculadora" width="500"/>
-</div>
-
----
-
 ## ✨ Funcionalidades
 
 - ✅ **Cálculo en tiempo real** del precio de venta ideal
